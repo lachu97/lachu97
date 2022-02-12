@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...val skills = ["Kotlin","Python","AI","Linux"]
 - 🌱 I’m currently learning ...val techstacks=["Mobile dev","Web Dev","Marketing","Stock Market","Cryptos"]
 - 💞️ I’m looking to collaborate on ...val colab=["Python","Kotlin","Kotlin Multiplatform"]
-- 📫 How to reach me ...val contact=["ced15i004@iiitdm.ac.in"]
+- 📫 How to reach me ...val contact=["ced15i004@iiitdm.ac.in","lakshmansar@gmail.com","betelguesebusiness@gmail.com"]
 - 👍 Achievements ...val achievements=["In Top 1% of Android Developers","Chess Master"]
 
 <!---
