@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lachu97
 - 👀 I’m interested in ...val skills:List<skills> = ["Kotlin","Python","AI","Linux"]
 - 🌱 I’m currently learning ...val techstacks:List<TechStacks>=["Mobile dev","Web Dev","Marketing","Stock Market Investor"]
-- 💞️ I’m looking to collaborate on ...val colab:List<languages>=["Python","Kotlin","Kotlin Multiplatform"]
+- 💞️ I’m looking to collaborate on ...val colab:List<languages>=["Python","Kotlin","Kotlin Multiplatform","FLutter"]
 - 📫 How to reach me ...val contact=["ced15i004@iiitdm.ac.in","lakshmansar@gmail.com","betelguesebusiness@gmail.com"]
 - 👍 Achievements ...val achievements=["In Top 1% of Android Developers","Chess Master"]
 
