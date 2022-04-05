@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...val skills:List<skills> = ["Kotlin","Python","AI","Linux"]
 - 🌱 I’m currently learning ...val techstacks:List<TechStacks>=["Mobile dev","Web Dev","Marketing","Stock Market Investor"]
 - 💞️ I’m looking to collaborate on ...val colab:List<languages>=["Python","Kotlin","Kotlin Multiplatform","FLutter"]
-- 📫 How to reach me ...val contact=["ced15i004@iiitdm.ac.in","lakshmansar@gmail.com","betelguesebusiness@gmail.com"]
-- 👍 Achievements ...val achievements=["In Top 1% of Android Developers","Chess Master"]
+- 📫 How to reach me ...val contact : List=["ced15i004@iiitdm.ac.in","lakshmansar@gmail.com","betelguesebusiness@gmail.com"]
+- 👍 Achievements ...val achievements: List=["In Top 1% of Android Developers","Chess Master"]
 
 <!---
 lachu97/lachu97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
