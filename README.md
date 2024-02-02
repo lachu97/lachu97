@@ -1,5 +1,5 @@
 # 💫 About Me:
-A B2B Commodity Trading App , Professional Mobile App Developer <br>Well versed in React native,Android and iOS
+Developing a B2B Commodity Trading App , Professional Mobile App Developer <br>Well versed in React native,Android and iOS
 
 
 ## 🌐 Socials:
