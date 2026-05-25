@@ -12,6 +12,7 @@ Currently building a B2B Commodity Trading Platform and VectorDB — a self-host
 - LeetCode: https://leetcode.com/u/Lakshu1797/
 - VectorDB: https://vector-db-web.vercel.app/
 - react-native-securekv: https://www.npmjs.com/package/react-native-securekv
+- Portfolio Website - https://lakshu-web.vercel.app/
 
 ---
 
